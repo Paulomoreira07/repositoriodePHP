@@ -14,6 +14,6 @@
     }
     else
     {
-        echo "nao foi aprovado";
+        echo "Reprovado";
     }
 ?>
